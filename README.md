@@ -2,9 +2,9 @@
 
 Para usar essa box você precisa instalar o:
 
-- VirtualBox
-- Vagrant
-- Git for Windows (para usuários Windows)
+- VirtualBox (https://www.virtualbox.org/)
+- Vagrant (https://www.vagrantup.com/)
+- Git for Windows (somente para usuários Windows - https://gitforwindows.org/)
 
 ## Após a instalação dos itens acima, siga os passos abaixo, usando um terminal.
 
