@@ -13,9 +13,10 @@ Para usar essa box você precisa instalar o:
 vagrant plugin install vagrant-vbguest
 ```
 
-2- Clone esse repositório
+2- Clone esse repositório e entre na pasta
 ```
 git clone https://github.com/jacksonpires/curso-rails
+cd curso-rails
 ```
 
 3- Inicie a box
